@@ -1,3 +1,5 @@
+42Tokyo rush01
+
 Author:
     yusyamas (42Tokyo C Piscine 2022/10 Fail)
 
